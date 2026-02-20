@@ -1,3 +1,27 @@
-body {
-    background-color: lightblue;
+html, body {
+   background-color:lightseagreen;
   }
+  div {
+  background-color: lightblue;
+ }
+ h1 {
+   background-color: aqua;
+ }
+ p { 
+   background-color: aquamarine;
+ }
+body {
+   background-image:url("background.jpg");
+ }
+p {
+   font: 15px Arial;
+ }
+ img {
+  border-radius: 20%;
+ }
+ a {
+  color: darkmagenta;
+  background-color: orangered;
+  font-weight: bold;
+ }
+ h1{color:blue;font-size:12px;}
